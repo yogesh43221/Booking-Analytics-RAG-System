@@ -1,11 +1,30 @@
-# Virtual Environment
+# --- Environment ---
+# Ignore virtual environment folder
 venv/
 */venv/
 
-# Python cache files
+# Ignore environment variables file
+.env
+
+# --- Python ---
+# Ignore Python cache files and compiled files
 __pycache__/
 *.py[cod]
 *$py.class
 
-# IDE files (example for VSCode)
+# --- IDE / Editor ---
+# Ignore VS Code specific files
 .vscode/
+# Ignore PyCharm specific files (optional)
+#.idea/
+
+# --- OS-specific ---
+# Ignore macOS specific files (optional)
+.DS_Store
+# Ignore Windows thumbnail cache (optional)
+Thumbs.db
+
+# --- Other ---
+# Ignore potentially large data files if not tracking (optional)
+# data/hotel_bookings.csv
+# vector_store/
