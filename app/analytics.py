@@ -9,7 +9,7 @@ from mysql.connector import errorcode
 # to avoid repetition. For simplicity here, we redefine them.
 DB_CONFIG = {
     'user': 'root',
-    'password': 'Yogesh@666',  # Use your actual password
+    'password': 'Your_password',  # Use your actual password
     'host': 'localhost',
     'port': 3306,
     'database': 'hotel_booking_db' # Connect directly to the database
