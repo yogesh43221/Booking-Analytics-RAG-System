@@ -36,7 +36,7 @@ Follow these steps to set up and run the project locally:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/yogesh43221/Booking-Analytics-RAG-System.git](https://github.com/yogesh43221/Booking-Analytics-RAG-System.git)
+    git clone https://github.com/yogesh43221/Booking-Analytics-RAG-System.git
     cd Booking-Analytics-RAG-System
     ```
 
