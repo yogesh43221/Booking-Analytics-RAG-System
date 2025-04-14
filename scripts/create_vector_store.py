@@ -15,7 +15,7 @@ DOCS_PATH = 'vector_store/text_data.pkl'
 
 MYSQL_DB_CONFIG = {
     'user': 'root',
-    'password': 'Yogesh@666',
+    'password': 'Your_password',
     'host': 'localhost',
     'port': 3306,
     'database': 'hotel_booking_db'
