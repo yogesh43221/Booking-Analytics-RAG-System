@@ -36,8 +36,8 @@ Follow these steps to set up and run the project locally:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-name>
+    git clone <https://github.com/yogesh43221/Booking-Analytics-RAG-System>
+    cd <https://github.com/yogesh43221/Booking-Analytics-RAG-System>
     ```
 
 2.  **Create and Activate Python Virtual Environment:**
