@@ -36,8 +36,8 @@ Follow these steps to set up and run the project locally:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <https://github.com/yogesh43221/Booking-Analytics-RAG-System>
-    cd <https://github.com/yogesh43221/Booking-Analytics-RAG-System>
+    git clone [https://github.com/yogesh43221/Booking-Analytics-RAG-System.git](https://github.com/yogesh43221/Booking-Analytics-RAG-System.git)
+    cd Booking-Analytics-RAG-System
     ```
 
 2.  **Create and Activate Python Virtual Environment:**
@@ -57,8 +57,7 @@ Follow these steps to set up and run the project locally:
     ```
 
 4.  **Download Booking Data:**
-    * Download the `hotel_bookings.csv` dataset (e.g., from the Kaggle link provided in the assignment PDF or another source).
-    * Place the downloaded `hotel_bookings.csv` file inside the `data/` directory.
+    * The required hotel_bookings.csv file is located in the data/ directory.
 
 5.  **Set Up MySQL Database & Credentials:**
     * Ensure you have a MySQL server running locally.
